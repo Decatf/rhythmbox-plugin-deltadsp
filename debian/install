@@ -1,0 +1,5 @@
+deltadsp.py /usr/lib/rhythmbox/plugins/deltadsp/
+ConfigDialog.py /usr/lib/rhythmbox/plugins/deltadsp/
+deltadsp.plugin /usr/lib/rhythmbox/plugins/deltadsp/
+deltadsp-prefs_widget.ui /usr/share/rhythmbox/plugins/deltadsp/
+org.gnome.rhythmbox.plugins.deltadsp.gschema.xml /usr/share/glib-2.0/schemas/

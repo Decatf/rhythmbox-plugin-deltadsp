@@ -1,0 +1,18 @@
+<schemalist>
+  <schema id="org.gnome.rhythmbox.plugins.deltadsp" path="/org/gnome/rhythmbox/plugins/deltadsp/">
+    <key name="gain" type="d">
+      <default>100</default>
+      <summary>Gain</summary>
+      <description>
+	      Delta gain.
+      </description>
+    </key>
+    <key name="has-gstdelta" type="b">
+      <default>false</default>
+      <summary>GStreamer delta plugin.</summary>
+      <description>
+	      GStreamer delta plugin is available.
+      </description>
+    </key>
+  </schema>
+</schemalist>

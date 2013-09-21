@@ -1,0 +1,18 @@
+Source: rhythmbox-plugin-deltadsp
+Section: gnome
+Priority: optional
+Maintainer: RyanG <decatf@gmail.com>
+Build-Depends: debhelper (>= 8.0.0), python (>=2.7.1)
+Standards-Version: 3.9.4
+Homepage: 
+#Vcs-Git: git://git.debian.org/collab-maint/gst-delta.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/gst-delta.git;a=summary
+
+Package: rhythmbox-plugin-deltadsp
+Architecture: any
+Section: gnome
+Depends: python (>=2.7.1), rhythmbox (>=2.98-0ubuntu5), ${misc:Depends}
+Description: GStreamer Delta audio filter for Rhythmbox music player.
+ GStreamer Delta audio filter for Rhythmbox music player.
+ The plugin will insert the audio filter into the gstreamer
+ audio playback pipeline.

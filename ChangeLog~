@@ -1,0 +1,9 @@
+2013-09-20  Robert Yang  <decatf@gmail.com>
+
+	* Set up the the GstCaps info using GstAudioFormat.
+
+2013-09-19  Robert Yang  <decatf@gmail.com>
+
+	* Initial release:
+		Ported to GStreamer 1.0.		
+

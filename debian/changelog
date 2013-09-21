@@ -1,0 +1,5 @@
+rhythmbox-plugin-deltadsp (0.1.2-1ppa1~raring1) raring; urgency=low
+
+  * Remove dependency on gstreamer1.0-delta. Add gstreamer plugin check in the rhythmbox plugin.
+
+ -- RyanG <decatf@gmail.com>  Sat, 21 Sep 2013 16:18:10 -0400
